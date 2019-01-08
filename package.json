@@ -1,0 +1,23 @@
+{
+  "name": "WbPck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdManDev/WbPck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdManDev/WbPck/issues"
+  },
+  "homepage": "https://github.com/EdManDev/WbPck#readme",
+  "devDependencies": {
+    "webpack": "^4.28.1"
+  }
+}
